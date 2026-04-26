@@ -1,0 +1,8 @@
+FIFO Controller - Synthesis Summary
+
+Technology: SkyWater 130nm (sky130A)
+Total Cell Count: 309
+Die Area: 3733.58 µm²
+D-Flip-Flops: 80
+Multiplexers: 96
+Max Frequency (estimated): 100 MHz 
